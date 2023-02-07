@@ -1,2 +1,2 @@
-# darw.io
-draw.io diafgrams
+# draw.io
+draw.io diagrams
